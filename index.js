@@ -30,7 +30,7 @@ if(config && config.height){
 
 hexo.extend.tag.register('pdf', function(args){
   if(!enable){
-    return;
+    return "";
   }
   
   var htmlTmlSrc = path.join(__dirname, 'reader.ejs');
