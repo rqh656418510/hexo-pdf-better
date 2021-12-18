@@ -10,6 +10,11 @@ Hexo tag for embeded pdf
 $ npm install --save hexo-pdf-better
 ```
 
+## Expansion
+
+- Add enable switch
+- Support custom the width and height of PDF
+
 ## Optional
 
 Optional configurations are as follows
